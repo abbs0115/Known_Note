@@ -41,7 +41,7 @@ class JavaProblemSet1 {
 		  }
 	}
 
-/*	
+	
 	// Problem 3: temperature
 	    public static String temperature(float value, boolean isFahrenheit) {
 	        if (isFahrenheit) {
@@ -54,19 +54,17 @@ class JavaProblemSet1 {
 	    }
 
 	    public static void main(String[] args) {
-	        boolean temp = true; // Assuming this is your condition
+	        boolean temp = true; 
 
 	        if (temp) {
-	            // Fahrenheit to Celsius
 	            float fahrenheitTemp = 68;
 	            String result = temperature(fahrenheitTemp, true);
 	            System.out.println(result);
 	        } else {
-	            // Celsius to Fahrenheit
 	            float celsiusTemp = 20;
 	            String result = temperature(celsiusTemp, false);
 	            System.out.println(result);
 	        }
 	    }
-*/
+
 }
